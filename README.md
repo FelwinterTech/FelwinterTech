@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Tim aka Felwinter, a Game Engineering Student based in Germany.
+
+My main tech stack is Unity3D C#, vue, typescript and tailwind. My favourite tools/programms are Unity3D and Blender. 
+
 <!--
 **ConnorNailingIt/ConnorNailingIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
